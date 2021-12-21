@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/activity_host.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/bottom_sheet_photo_actions.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_category_photos.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_curated_photos.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_favorites.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_home.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_photo.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_search.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/fragment_splash.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_category.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_category_color.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_category_theme.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_footer.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_header.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_photo_in_grid.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/item_photo_in_list.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/layout_toolbar.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/layout_toolbar_search.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/view_navigation.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/view_navigation_button.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/view_placeholder.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/ASUS/Downloads/PexWalls-master/PexWalls-master/app/src/main/res/layout/view_progress.xml" value="0.1644021739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
